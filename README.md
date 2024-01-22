@@ -19,7 +19,7 @@
 ## Connect with Me
 
 - 📧 Email: choirinaalivia@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/choirinaalivia)
+- 💼 LinkedIn:(https://www.linkedin.com/in/choirinaalivia)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or any questions. Let's connect and learn together! 🚀
 
