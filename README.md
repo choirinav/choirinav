@@ -6,7 +6,7 @@
 - 💼 Actively seeking opportunities to contribute to data-driven projects.
 - 📈 Constantly learning and exploring new tools and technologies in the data analytics space.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choirinav)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choirinav&show_icons=true&theme=gruvbox)
 ## Skills
 
 - **Data Analysis:** Python, R
